@@ -1,1 +1,3 @@
-Personal Home Page, see: [[https://dxnotes.com/][https://dxnotes.com/]]
+Source code for [[https://dxnotes.com][https://dxnotes.com]]
+
+Powered by [[https://github.com/dmacvicar/site.org][https://github.com/dmacvicar/site.org]]
