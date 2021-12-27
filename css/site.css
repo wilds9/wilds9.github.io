@@ -26,7 +26,7 @@ body {
 }
 
 header#preamble, main#content, footer#postamble {
-  padding-left: 2em;
+  padding-left: 0em;
 }
 
 header {
@@ -40,7 +40,7 @@ header a {
 
 main {
   grid-area: main;
-  border-left: 1px solid #ddd;
+  border-left: 0px solid white;
   /* font: 400 16px/22px "open sans", sans-serif; */
 }
 
